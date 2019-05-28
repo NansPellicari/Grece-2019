@@ -28,12 +28,13 @@
 
 ## Trajets & prix
 
-| personne | type    | compagnie                    | départ                                    | arrivée                                     | prix   |
-| -------- | ------- | ---------------------------- | ----------------------------------------- | ------------------------------------------- | ------ |
-| Nans     | Avion   | LUFTHANSA                    | ven. 26 juil 6h00 (local) - Nice          | ven. 26 juillet 12:20 (local) - Athènes     | 298€58 |
-| Nans     | Ferries | Direct Ferries > Fastferries | ven. 26 juil 16h30 (17:30 local) - Rafina | ven. 26 juillet 21:20 (22:20 local) - Naxos | 48€50  |
-| Nans     | Ferries | Direct Ferries > SeaJets     | jeu. 1 aout 13h35 (14:35 local) - Naxos   | jeu. 1 aout 17:00 (18:00 local) - Le Pirée  | 51€50  |
-| Nans     | Avion   | LUFTHANSA                    | ven. 9 aout 13h10 (local) - Athènes       | ven. 9 aout 17:50 (local) - Nice            | -      |
+| personne   | type    | compagnie                          | départ                                    | arrivée                                     | prix   | details                    |
+| ---------- | ------- | ---------------------------------- | ----------------------------------------- | ------------------------------------------- | ------ | -------------------------- |
+| Nans       | Avion   | LUFTHANSA                          | ven. 26 juil 6h00 (local) - Nice          | ven. 26 juillet 12:20 (local) - Athènes     | 298€58 |                            |
+| Nans       | Ferries | Direct Ferries > Fastferries       | ven. 26 juil 16h30 (17:30 local) - Rafina | ven. 26 juillet 21:20 (22:20 local) - Naxos | 48€50  |                            |
+| Greg & Cla | Ferries | Direct Ferries > blue star ferries | jeu. 1 aout 9h30 (?? local) - Naxos       | ??                                          | ??     | sieges dans le lounge ATS2 |
+| Nans       | Ferries | Direct Ferries > SeaJets           | jeu. 1 aout 13h35 (14:35 local) - Naxos   | jeu. 1 aout 17:00 (18:00 local) - Le Pirée  | 51€50  |                            |
+| Nans       | Avion   | LUFTHANSA                          | ven. 9 aout 13h10 (local) - Athènes       | ven. 9 aout 17:50 (local) - Nice            | -      |                            |
 
 ## Hôtels et logements
 
